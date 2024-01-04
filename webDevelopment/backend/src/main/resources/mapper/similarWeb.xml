@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xjtu.xjtuse.assistance.SimilarWeb.dao.SimilarWebDao">
+    <select id="getSimilarWebInfo" resultType="com.xjtu.xjtuse.assistance.SimilarWeb.SimilarWebInfo">
+        select id,
+               source_url         as sourceUrl,
+               source_id          as sourceId,
+               target_url         as targetUrl,
+               target_id          as targetId,
+               similarity,
+               algorithm,
+               target_folder_name as targetFolderName
+        from similarwebinfo
+        where source_url = #{url}
+    </select>
+
+    <select id="getReplacePreviewImageUrl" resultType="java.lang.String">
+        select save_path as saveFolder
+        from replaceinfo
+        where source_url = #{sourceUrl}
+          and target_url = #{targetUrl}
+    </select>
+
+    <select id="getReplaceFileName" resultType="java.lang.String">
+        select save_path as saveFolder
+        from replaceinfo
+        where source_id = #{sourceId}
+          and target_id = #{targetId}
+    </select>
+
+    <select id="getUrlById" resultType="java.lang.String">
+        select url
+        from webinfo
+        where id = #{id}
+    </select>
+
+    <select id="judgeProcessedReplace" resultType="java.lang.Boolean">
+        select *
+        from replaceinfo
+        where source_id = #{sourceId}
+          and target_id = #{targetId}
+    </select>
+
+    <select id="getSaveFolderById" resultType="java.lang.String">
+        select save_path
+        from webinfo
+        where id = #{id}
+    </select>
+
+    <insert id="addSearchHistory">
+        insert into t_search_history(u_id, web_url, start_time, percentage)
+        values (#{userId}, #{url}, #{time}, 0)
+    </insert>
+</mapper>

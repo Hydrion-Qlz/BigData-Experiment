@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.xjtu.xjtuse.assistance.admin.dao.AdminDao">
+    <select id="getAllUser" resultType="com.xjtu.xjtuse.assistance.user.dto.UserInfo">
+        select *
+        from t_user
+    </select>
+
+    <update id="setUserState">
+        update t_user
+        set state = #{state}
+        where id = #{userId}
+    </update>
+
+    <select id="getVerifyPageList" resultType="com.xjtu.xjtuse.assistance.admin.dto.WebPageInfo">
+        select webinfo.id    as id,
+               pub_u_id      as userId,
+               username,
+               email,
+               url,
+               save_path     as savePath,
+               primary_class as primaryClass,
+               second_class  as secondClass,
+               webinfo.state as state
+        from webinfo,
+             t_user
+        where webinfo.state != 2
+          and t_user.id = webinfo.pub_u_id
+    </select>
+
+    <update id="setWebPageState">
+        update webinfo
+        set state = #{state}
+        where id = #{id}
+    </update>
+</mapper>

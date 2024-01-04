@@ -1,0 +1,33 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/assistance?useSSL=false&serverTimezone=Asia/Shanghai&allowPublicKeyRetrieval=true
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  mail:
+    host: smtp.qq.com
+    username: 1138162267@qq.com
+    password: Qlz13159!!
+    port: 465
+    from: 1138162267@qq.com
+    protocol: smtp
+    defaultEncoding: UTF-8
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+
+logging:
+  level:
+    root: info
+    com:
+      xjtu:
+        xjtuse: debug
+    web: trace
+
+mybatis:
+  mapper-locations: mapper/*.xml
+
+
