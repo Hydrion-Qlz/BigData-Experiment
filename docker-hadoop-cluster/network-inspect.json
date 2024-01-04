@@ -1,0 +1,112 @@
+[
+    {
+        "Name": "docker-hadoop-spark_default",
+        "Id": "a72fa59fb0db9d6a288aaa9ee19a1a563b6bc572b7f905913fb157f9f32e97ee",
+        "Created": "2024-01-03T10:17:30.4428563Z",
+        "Scope": "local",
+        "Driver": "bridge",
+        "EnableIPv6": false,
+        "IPAM": {
+            "Driver": "default",
+            "Options": null,
+            "Config": [
+                {
+                    "Subnet": "172.18.0.0/16",
+                    "Gateway": "172.18.0.1"
+                }
+            ]
+        },
+        "Internal": false,
+        "Attachable": false,
+        "Ingress": false,
+        "ConfigFrom": {
+            "Network": ""
+        },
+        "ConfigOnly": false,
+        "Containers": {
+            "11a8cf0702b43253caac01d77422d6bb0db4c4ce8b0cd09383513b35fdc7c7e1": {
+                "Name": "hive-metastore-postgresql",
+                "EndpointID": "a7a989daa97fff9ee38f597c629a6ffcb573d12b562f161b876ca5ddf6fad0ce",
+                "MacAddress": "02:42:ac:12:00:03",
+                "IPv4Address": "172.18.0.3/16",
+                "IPv6Address": ""
+            },
+            "19d75f48981ba7da3f29ca5ffaef8eb1d8fd15fe9e36eca009173fc83f34c015": {
+                "Name": "hive-metastore",
+                "EndpointID": "e7f7f24afa48a42b51fd4a54820378e7ffdf7b84a23a1d218edd6430573e5343",
+                "MacAddress": "02:42:ac:12:00:06",
+                "IPv4Address": "172.18.0.6/16",
+                "IPv6Address": ""
+            },
+            "2513e4c112bca1de1515fb2aad3235848b08802882939cff2aa35ec80908b714": {
+                "Name": "spark-master",
+                "EndpointID": "3112b0fe0f6be09d8b93766f5dc53921529cc57dcb8807960225a65a3e2765b1",
+                "MacAddress": "02:42:ac:12:00:0b",
+                "IPv4Address": "172.18.0.11/16",
+                "IPv6Address": ""
+            },
+            "2e7eca97b9d5dcfd7593c300cabf5cb1a26b5ff491e8fa16db7952a64b4d6be9": {
+                "Name": "spark-worker-1",
+                "EndpointID": "ed11e86a85204bf4e4d79c80b257f8825566fbdf2773d76b4221d610250d55de",
+                "MacAddress": "02:42:ac:12:00:0c",
+                "IPv4Address": "172.18.0.12/16",
+                "IPv6Address": ""
+            },
+            "30de21982ba0b1aec3cd3ff9b38ea58f1756507177063eb72a6a9d7f95ff8aa9": {
+                "Name": "hive-server",
+                "EndpointID": "60cb7ca40ba7fb5ba4abf892380e8f668fede1134618013735eecfc67c2bde2c",
+                "MacAddress": "02:42:ac:12:00:0a",
+                "IPv4Address": "172.18.0.10/16",
+                "IPv6Address": ""
+            },
+            "322c69cd623abc41cdad8f4618c37b3c6655f746dd5b99558fe047460459f300": {
+                "Name": "nodemanager",
+                "EndpointID": "2ffacfacd26f989b102a9e810ffdeb551b57a48fc80d794b0b7de833b6d363aa",
+                "MacAddress": "02:42:ac:12:00:07",
+                "IPv4Address": "172.18.0.7/16",
+                "IPv6Address": ""
+            },
+            "5d2da3aaf1ad6cafbd9894214dc23947376d7a229acbe6ad395e8c1a36043f80": {
+                "Name": "datanode",
+                "EndpointID": "e9905fcd81e14662ca0226a581fc47063864736fc4dfdb177e4af0ddc1f04ee3",
+                "MacAddress": "02:42:ac:12:00:04",
+                "IPv4Address": "172.18.0.4/16",
+                "IPv6Address": ""
+            },
+            "8c8ea387432aa1746f86460d2ea958bc9c26a3064f479adf7983958103c00e4e": {
+                "Name": "historyserver",
+                "EndpointID": "2eb24465d312c58e99312b715979e241605581c586f03f82cb5e467e2000fd1a",
+                "MacAddress": "02:42:ac:12:00:08",
+                "IPv4Address": "172.18.0.8/16",
+                "IPv6Address": ""
+            },
+            "dde341da3a6f1f46ab8e28d7cc603cfc66365dcb3fcee7712f17fc54cf5e952b": {
+                "Name": "namenode",
+                "EndpointID": "69a613feca4973f215fb0a8d02879dcf828f410b64f50dfdce22388eaac53d32",
+                "MacAddress": "02:42:ac:12:00:05",
+                "IPv4Address": "172.18.0.5/16",
+                "IPv6Address": ""
+            },
+            "e265268c390d35a149c29498a000390bdb749090e4ba28c946cbdf33f7c7a823": {
+                "Name": "presto-coordinator",
+                "EndpointID": "0b23f279f1838278e4a16aec8dc0ac4fbde9bdf078610effd51036ae7f8ead34",
+                "MacAddress": "02:42:ac:12:00:09",
+                "IPv4Address": "172.18.0.9/16",
+                "IPv6Address": ""
+            },
+            "fdf611784d0d58e28ccfe005ed966c9ebc99fbf7452a841a8ec00f083ca5832d": {
+                "Name": "resourcemanager",
+                "EndpointID": "8839669571e38d2b2a600c64730dde8fc17c63e479c750a2919cb40b1ad86376",
+                "MacAddress": "02:42:ac:12:00:02",
+                "IPv4Address": "172.18.0.2/16",
+                "IPv6Address": ""
+            }
+        },
+        "Options": {},
+        "Labels": {
+            "com.docker.compose.network": "default",
+            "com.docker.compose.project": "docker-hadoop-spark",
+            "com.docker.compose.version": "2.20.2"
+        }
+    }
+]
