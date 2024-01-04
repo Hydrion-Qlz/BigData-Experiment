@@ -1,0 +1,76 @@
+{
+    "sourceInfo": {
+        "url": "https://www.baidu.com/",
+        "title": "百度一下，你就知道"
+    },
+    "targetInfo": {
+        "url": "https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp",
+        "title": "Google 视频"
+    },
+    "replaceInfo": [
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4) > div:nth-child(4) > div",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div > div > div > div:nth-child(2) > div:nth-child(2) > div"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4) > div:nth-child(4) > div:nth-child(2)",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div > div > div > div:nth-child(2)"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4) > div:nth-child(2) > div:nth-child(3) > div:nth-child(8) > div:nth-child(2)",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2) > div:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div > div > div > span:nth-child(2) > span:nth-child(3) > g-popup"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4) > div:nth-child(2) > div:nth-child(3)",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2) > div:nth-child(2) > div > div"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4) > div:nth-child(3) > div",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2) > div:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div > div > div"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4) > div:nth-child(2) > div:nth-child(3) > div:nth-child(8)",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2) > div:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div > div > div > span:nth-child(2)"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4) > div:nth-child(2) > div:nth-child(4) > div:nth-child(3)",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2) > div:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div > div > div > span:nth-child(3)"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4) > div:nth-child(2)",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2)"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4)",
+            "targetCssSelector": "html > body:nth-child(2)"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4) > div:nth-child(2) > div:nth-child(5) > div > div > div:nth-child(6) > div > a > div",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2) > div:nth-child(3) > div:nth-child(3)"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4) > div:nth-child(2) > div:nth-child(4)",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2) > div:nth-child(3) > div:nth-child(2)"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4) > div:nth-child(2) > div:nth-child(5) > div > div",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2) > div:nth-child(3) > span > center"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4) > div:nth-child(2) > div:nth-child(5) > div > div > div:nth-child(6) > div",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2) > div:nth-child(3) > div:nth-child(2) > div:nth-child(2) > div > div > div > span:nth-child(2) > span:nth-child(3) > g-popup > div:nth-child(2) > g-menu"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4) > div:nth-child(2) > div:nth-child(7) > div",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2) > div:nth-child(3) > span > center > form:nth-child(2) > table:nth-child(2) > tbody > tr > td > div:nth-child(9)"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2)",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2) > div:nth-child(3) > span > center > form:nth-child(2)"
+        },
+        {
+            "sourceCssSelector": "html > body:nth-child(2) > div:nth-child(4) > div:nth-child(2) > div:nth-child(5) > div > div > form:nth-child(4) > span:nth-child(8)",
+            "targetCssSelector": "html > body:nth-child(2) > div:nth-child(2) > div:nth-child(3) > span > center > form:nth-child(2) > table:nth-child(2) > tbody > tr > td"
+        }
+    ]
+}

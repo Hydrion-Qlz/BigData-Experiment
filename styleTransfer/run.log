@@ -1,0 +1,334 @@
+2023-01-08 15:40:52.126853 -> Crawl HTML Document from https://tokyo2020.org/en/
+2023-01-08 15:40:55.386689 -> Run Pruning on https://tokyo2020.org/en/
+2023-01-08 15:40:55.387691 -> Run Partial Tree Matching on https://tokyo2020.org/en/
+2023-01-08 15:40:55.387691 -> Run Backtracking on https://tokyo2020.org/en/
+2023-01-08 15:40:55.387691 -> Output Result JSON File on  https://tokyo2020.org/en/
+2023-01-08 15:40:55.400689 -> Output Images on  https://tokyo2020.org/en/
+2023-01-08 15:40:55.403687 -> Finished on  https://tokyo2020.org/en/
+2023-01-08 15:43:27.646741 -> Crawl HTML Document from https://www.bilibili.com/
+2023-01-08 15:43:31.386736 -> Run Pruning on https://www.bilibili.com/
+2023-01-08 15:43:31.396699 -> Run Partial Tree Matching on https://www.bilibili.com/
+2023-01-08 15:43:31.757707 -> Run Backtracking on https://www.bilibili.com/
+2023-01-08 15:43:31.761665 -> Output Result JSON File on  https://www.bilibili.com/
+2023-01-08 15:44:16.357909 -> Output Images on  https://www.bilibili.com/
+2023-01-08 15:44:42.370230 -> Finished on  https://www.bilibili.com/
+2023-01-08 15:48:07.051853 -> Crawl HTML Document from https://so.csdn.net/so/search?spm=1000.2115.3001.4501&q=anaconda&t=&u=
+2023-01-08 15:48:08.689711 -> Run Pruning on https://so.csdn.net/so/search?spm=1000.2115.3001.4501&q=anaconda&t=&u=
+2023-01-08 15:48:08.691712 -> Run Partial Tree Matching on https://so.csdn.net/so/search?spm=1000.2115.3001.4501&q=anaconda&t=&u=
+2023-01-08 15:48:08.716760 -> Run Backtracking on https://so.csdn.net/so/search?spm=1000.2115.3001.4501&q=anaconda&t=&u=
+2023-01-08 15:48:08.718716 -> Output Result JSON File on  https://so.csdn.net/so/search?spm=1000.2115.3001.4501&q=anaconda&t=&u=
+2023-01-08 15:48:13.944636 -> Finished on  https://so.csdn.net/so/search?spm=1000.2115.3001.4501&q=anaconda&t=&u=
+2023-01-08 15:48:53.168320 -> Crawl HTML Document from https://blog.csdn.net/nav/mobile
+2023-01-08 15:48:58.759750 -> Run Pruning on https://blog.csdn.net/nav/mobile
+2023-01-08 15:48:58.771751 -> Run Partial Tree Matching on https://blog.csdn.net/nav/mobile
+2023-01-08 15:48:58.965218 -> Run Backtracking on https://blog.csdn.net/nav/mobile
+2023-01-08 15:48:58.971403 -> Output Result JSON File on  https://blog.csdn.net/nav/mobile
+2023-01-08 15:50:12.211649 -> Finished on  https://blog.csdn.net/nav/mobile
+2023-01-08 15:51:37.951555 -> Crawl HTML Document from https://www.mi.com/shop
+2023-01-08 15:51:43.093525 -> Run Pruning on https://www.mi.com/shop
+2023-01-08 15:51:43.115524 -> Run Partial Tree Matching on https://www.mi.com/shop
+2023-01-08 15:51:43.686524 -> Run Backtracking on https://www.mi.com/shop
+2023-01-08 15:51:43.696525 -> Output Result JSON File on  https://www.mi.com/shop
+2023-01-08 15:55:30.160923 -> Output Images on  https://www.mi.com/shop
+2023-01-08 15:56:34.255392 -> Finished on  https://www.mi.com/shop
+2023-01-08 15:58:57.660334 -> Crawl HTML Document from https://www.baidu.com/
+2023-01-08 15:59:00.512557 -> Run Pruning on https://www.baidu.com/
+2023-01-08 15:59:00.515555 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-01-08 15:59:00.554556 -> Run Backtracking on https://www.baidu.com/
+2023-01-08 15:59:00.556557 -> Output Result JSON File on  https://www.baidu.com/
+2023-01-08 15:59:03.739392 -> Output Images on  https://www.baidu.com/
+2023-01-08 15:59:05.067571 -> Finished on  https://www.baidu.com/
+2023-01-08 16:16:57.114725 -> Crawl HTML Document from https://www.google.com/
+2023-01-08 16:17:03.426385 -> Run Pruning on https://www.google.com/
+2023-01-08 16:17:03.429438 -> Run Partial Tree Matching on https://www.google.com/
+2023-01-08 16:17:03.460384 -> Run Backtracking on https://www.google.com/
+2023-01-08 16:17:03.462386 -> Output Result JSON File on  https://www.google.com/
+2023-01-08 16:17:07.134406 -> Output Images on  https://www.google.com/
+2023-01-08 16:17:07.204850 -> Finished on  https://www.google.com/
+2023-01-08 16:19:10.727572 -> Crawl HTML Document from https://www.baidu.com/
+2023-01-08 16:19:41.100170 -> Run Pruning on https://www.baidu.com/
+2023-01-08 16:19:41.100170 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-01-08 16:19:41.101173 -> Run Backtracking on https://www.baidu.com/
+2023-01-08 16:19:41.101173 -> Output Result JSON File on  https://www.baidu.com/
+2023-01-08 16:19:41.106172 -> Finished on  https://www.baidu.com/
+2023-01-08 16:21:27.369383 -> Crawl HTML Document from http://www.baidu.com/
+2023-01-08 16:23:30.022893 -> Crawl HTML Document from https://www.baidu.com/
+2023-01-08 16:23:31.629846 -> Run Pruning on https://www.baidu.com/
+2023-01-08 16:23:31.631846 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-01-08 16:23:31.675801 -> Run Backtracking on https://www.baidu.com/
+2023-01-08 16:23:31.677801 -> Output Result JSON File on  https://www.baidu.com/
+2023-01-08 16:23:34.882810 -> Finished on  https://www.baidu.com/
+2023-01-30 23:11:50.956756 -> Crawl HTML Document from https://www.baidu.com/
+2023-01-30 23:11:53.447463 -> Run Pruning on https://www.baidu.com/
+2023-01-30 23:11:53.448462 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-01-30 23:11:53.471092 -> Run Backtracking on https://www.baidu.com/
+2023-01-30 23:11:53.472091 -> Output Result JSON File on  https://www.baidu.com/
+2023-01-30 23:11:56.472921 -> Finished on  https://www.baidu.com/
+2023-02-04 19:17:53.802802 -> Crawl HTML Document from https://mail.163.com/
+2023-02-04 19:18:09.586044 -> Run Pruning on https://mail.163.com/
+2023-02-04 19:18:09.588838 -> Run Partial Tree Matching on https://mail.163.com/
+2023-02-04 19:18:09.631974 -> Run Backtracking on https://mail.163.com/
+2023-02-04 19:18:09.633975 -> Output Result JSON File on  https://mail.163.com/
+2023-02-04 19:18:12.772060 -> Finished on  https://mail.163.com/
+2023-02-04 19:18:57.715277 -> Crawl HTML Document from https://mail.163.com/
+2023-02-04 19:19:05.582666 -> Run Pruning on https://mail.163.com/
+2023-02-04 19:19:05.584682 -> Run Partial Tree Matching on https://mail.163.com/
+2023-02-04 19:19:05.624394 -> Run Backtracking on https://mail.163.com/
+2023-02-04 19:19:05.626360 -> Output Result JSON File on  https://mail.163.com/
+2023-02-04 19:19:08.813258 -> Finished on  https://mail.163.com/
+2023-02-04 19:19:27.489548 -> Crawl HTML Document from https://mail.163.com/
+2023-02-04 19:19:34.695793 -> Run Pruning on https://mail.163.com/
+2023-02-04 19:19:34.697793 -> Run Partial Tree Matching on https://mail.163.com/
+2023-02-04 19:19:34.733367 -> Run Backtracking on https://mail.163.com/
+2023-02-04 19:19:34.734367 -> Output Result JSON File on  https://mail.163.com/
+2023-02-04 19:19:37.965296 -> Finished on  https://mail.163.com/
+2023-02-04 19:27:42.085445 -> Crawl HTML Document from https://mail.163.com/
+2023-02-04 19:27:50.488247 -> Run Pruning on https://mail.163.com/
+2023-02-04 19:27:50.490173 -> Run Partial Tree Matching on https://mail.163.com/
+2023-02-04 19:27:50.530228 -> Run Backtracking on https://mail.163.com/
+2023-02-04 19:27:50.531227 -> Output Result JSON File on  https://mail.163.com/
+2023-02-04 19:27:53.863932 -> Finished on  https://mail.163.com/
+2023-02-04 19:34:24.634076 -> Crawl HTML Document from https://stackoverflow.com/search?q=stack&s=14b8c28f-535a-410a-9fc5-0adaebbfad85
+2023-02-04 19:34:32.331320 -> Run Pruning on https://stackoverflow.com/search?q=stack&s=14b8c28f-535a-410a-9fc5-0adaebbfad85
+2023-02-04 19:34:32.334316 -> Run Partial Tree Matching on https://stackoverflow.com/search?q=stack&s=14b8c28f-535a-410a-9fc5-0adaebbfad85
+2023-02-04 19:34:32.366315 -> Run Backtracking on https://stackoverflow.com/search?q=stack&s=14b8c28f-535a-410a-9fc5-0adaebbfad85
+2023-02-04 19:34:32.368318 -> Output Result JSON File on  https://stackoverflow.com/search?q=stack&s=14b8c28f-535a-410a-9fc5-0adaebbfad85
+2023-02-04 19:34:38.384422 -> Finished on  https://stackoverflow.com/search?q=stack&s=14b8c28f-535a-410a-9fc5-0adaebbfad85
+2023-02-04 19:35:35.403340 -> Crawl HTML Document from https://stackoverflow.com/search?q=stack&s=a3db9495-b069-4e74-97b0-c67c78da35af
+2023-02-04 19:35:42.394493 -> Run Pruning on https://stackoverflow.com/search?q=stack&s=a3db9495-b069-4e74-97b0-c67c78da35af
+2023-02-04 19:35:42.402463 -> Run Partial Tree Matching on https://stackoverflow.com/search?q=stack&s=a3db9495-b069-4e74-97b0-c67c78da35af
+2023-02-04 19:35:42.648550 -> Run Backtracking on https://stackoverflow.com/search?q=stack&s=a3db9495-b069-4e74-97b0-c67c78da35af
+2023-02-04 19:35:42.654509 -> Output Result JSON File on  https://stackoverflow.com/search?q=stack&s=a3db9495-b069-4e74-97b0-c67c78da35af
+2023-02-04 19:36:06.948196 -> Finished on  https://stackoverflow.com/search?q=stack&s=a3db9495-b069-4e74-97b0-c67c78da35af
+2023-02-07 13:01:50.338761 -> Crawl HTML Document from https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:01:56.754371 -> Run Pruning on https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:01:56.756371 -> Run Partial Tree Matching on https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:01:56.816373 -> Run Backtracking on https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:01:56.817373 -> Output Result JSON File on  https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:02:19.228766 -> Finished on  https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:10:42.351061 -> Crawl HTML Document from https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:10:53.014172 -> Run Pruning on https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:10:53.016171 -> Run Partial Tree Matching on https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:10:53.035174 -> Run Backtracking on https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:10:53.036174 -> Output Result JSON File on  https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:10:53.049811 -> Finished on  https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:14:00.205533 -> Crawl HTML Document from https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:14:10.536448 -> Run Pruning on https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:14:10.538446 -> Run Partial Tree Matching on https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:14:10.556448 -> Run Backtracking on https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:14:10.557448 -> Output Result JSON File on  https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:16:17.811394 -> Crawl HTML Document from https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:16:25.229498 -> Run Pruning on https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:16:25.231499 -> Run Partial Tree Matching on https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:16:25.248527 -> Run Backtracking on https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:16:25.249453 -> Output Result JSON File on  https://stackoverflow.com/search?q=error&s=eca606bf-e19f-4b76-87ea-d909b1b2f2cd
+2023-02-07 13:26:27.191085 -> Crawl HTML Document from https://www.zhihu.com/
+2023-02-07 13:26:30.613093 -> Run Pruning on https://www.zhihu.com/
+2023-02-07 13:26:30.614022 -> Run Partial Tree Matching on https://www.zhihu.com/
+2023-02-07 13:26:30.618097 -> Run Backtracking on https://www.zhihu.com/
+2023-02-07 13:26:30.618097 -> Output Result JSON File on  https://www.zhihu.com/
+2023-02-07 13:26:32.960202 -> Finished on  https://www.zhihu.com/
+2023-02-07 13:30:26.470421 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 13:30:28.192791 -> Run Pruning on https://www.baidu.com/
+2023-02-07 13:30:28.192791 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 13:30:28.203791 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 13:30:28.204792 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 13:30:31.033905 -> Finished on  https://www.baidu.com/
+2023-02-07 13:31:34.710526 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 13:31:36.305038 -> Run Pruning on https://www.baidu.com/
+2023-02-07 13:31:36.306039 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 13:31:36.314995 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 13:31:36.314995 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 13:31:39.162982 -> Finished on  https://www.baidu.com/
+2023-02-07 13:31:46.814101 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 13:31:48.305600 -> Run Pruning on https://www.baidu.com/
+2023-02-07 13:31:48.306600 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 13:31:48.316601 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 13:31:48.316601 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 13:31:51.081799 -> Finished on  https://www.baidu.com/
+2023-02-07 13:34:17.184271 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 13:34:18.826457 -> Run Pruning on https://www.baidu.com/
+2023-02-07 13:34:18.826457 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 13:34:18.835456 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 13:34:18.836456 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 13:35:09.777563 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 13:35:11.439133 -> Run Pruning on https://www.baidu.com/
+2023-02-07 13:35:11.441133 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 13:35:11.475133 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 13:35:11.476136 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 13:35:41.188870 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 13:35:42.865539 -> Run Pruning on https://www.baidu.com/
+2023-02-07 13:35:42.865539 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 13:35:42.874538 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 13:35:42.874538 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 13:36:17.706434 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 13:36:19.289740 -> Run Pruning on https://www.baidu.com/
+2023-02-07 13:36:19.289740 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 13:36:19.299753 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 13:36:19.300739 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 13:36:58.110611 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 13:36:59.707888 -> Run Pruning on https://www.baidu.com/
+2023-02-07 13:36:59.708887 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 13:36:59.715888 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 13:36:59.715888 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 13:37:29.709791 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 13:37:31.207778 -> Run Pruning on https://www.baidu.com/
+2023-02-07 13:37:31.208821 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 13:37:31.216821 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 13:37:31.216821 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 13:37:34.202016 -> Finished on  https://www.baidu.com/
+2023-02-07 13:46:09.311236 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 13:46:10.898415 -> Run Pruning on https://www.baidu.com/
+2023-02-07 13:46:10.899415 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 13:46:10.910413 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 13:46:10.911412 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 13:46:44.880777 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 13:46:46.563495 -> Run Pruning on https://www.baidu.com/
+2023-02-07 13:46:46.564495 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 13:46:46.573496 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 13:46:46.573496 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 13:46:49.430816 -> Finished on  https://www.baidu.com/
+2023-02-07 15:48:01.671467 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 15:48:03.389702 -> Run Pruning on https://www.baidu.com/
+2023-02-07 15:48:03.390702 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 15:48:03.406701 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 15:48:03.407699 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 15:48:20.218529 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 15:48:21.819065 -> Run Pruning on https://www.baidu.com/
+2023-02-07 15:48:21.820065 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 15:48:21.830063 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 15:48:21.830063 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 15:48:56.990558 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 15:48:58.577037 -> Run Pruning on https://www.baidu.com/
+2023-02-07 15:48:58.577037 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 15:48:58.588039 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 15:48:58.588039 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 15:49:01.574578 -> Finished on  https://www.baidu.com/
+2023-02-07 15:55:17.182618 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 15:55:18.807480 -> Run Pruning on https://www.baidu.com/
+2023-02-07 15:55:18.808439 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 15:55:18.817480 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 15:55:18.817480 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:03:31.907018 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 16:03:33.594761 -> Run Pruning on https://www.baidu.com/
+2023-02-07 16:03:33.595758 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 16:03:33.604756 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 16:03:33.604756 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:03:36.833827 -> Finished on  https://www.baidu.com/
+2023-02-07 16:06:06.640563 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 16:06:08.449252 -> Run Pruning on https://www.baidu.com/
+2023-02-07 16:06:08.450253 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 16:06:08.459252 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 16:06:08.459252 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:06:25.062436 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 16:06:26.947820 -> Run Pruning on https://www.baidu.com/
+2023-02-07 16:06:26.948818 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 16:06:26.962818 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 16:06:26.962818 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:06:29.831979 -> Finished on  https://www.baidu.com/
+2023-02-07 16:08:22.317226 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 16:08:23.976304 -> Run Pruning on https://www.baidu.com/
+2023-02-07 16:08:23.976304 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 16:08:23.988261 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 16:08:23.988261 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:09:14.725189 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 16:09:16.449657 -> Run Pruning on https://www.baidu.com/
+2023-02-07 16:09:16.449657 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 16:09:16.461613 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 16:09:16.461613 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:09:19.824174 -> Finished on  https://www.baidu.com/
+2023-02-07 16:10:28.460631 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 16:10:30.215685 -> Run Pruning on https://www.baidu.com/
+2023-02-07 16:10:30.215685 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 16:10:30.228733 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 16:10:30.229684 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:10:33.823039 -> Finished on  https://www.baidu.com/
+2023-02-07 16:10:44.142338 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 16:10:46.067242 -> Run Pruning on https://www.baidu.com/
+2023-02-07 16:10:46.068243 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 16:10:46.082241 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 16:10:46.083241 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:10:49.134982 -> Finished on  https://www.baidu.com/
+2023-02-07 16:12:16.898619 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 16:12:18.551919 -> Run Pruning on https://www.baidu.com/
+2023-02-07 16:12:18.552918 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 16:12:18.561908 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 16:12:18.562908 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:12:21.574652 -> Finished on  https://www.baidu.com/
+2023-02-07 16:12:24.912774 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 16:12:26.584626 -> Run Pruning on https://www.baidu.com/
+2023-02-07 16:12:26.585080 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 16:12:26.595086 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 16:12:26.595086 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:12:29.538262 -> Finished on  https://www.baidu.com/
+2023-02-07 16:12:52.834779 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 16:12:54.457489 -> Run Pruning on https://www.baidu.com/
+2023-02-07 16:12:54.457489 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 16:12:54.467488 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 16:12:54.468490 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:12:58.034202 -> Finished on  https://www.baidu.com/
+2023-02-07 16:15:15.086535 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 16:15:16.964192 -> Run Pruning on https://www.baidu.com/
+2023-02-07 16:15:16.964873 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 16:15:16.975827 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 16:15:16.975827 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:15:19.972969 -> Finished on  https://www.baidu.com/
+2023-02-07 16:16:18.221463 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 16:16:19.883225 -> Run Pruning on https://www.baidu.com/
+2023-02-07 16:16:19.883225 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 16:16:19.894228 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 16:16:19.894228 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:16:22.893527 -> Finished on  https://www.baidu.com/
+2023-02-07 16:18:10.026959 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 16:18:11.824361 -> Run Pruning on https://www.baidu.com/
+2023-02-07 16:18:11.825361 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 16:18:11.834360 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 16:18:11.834360 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:18:14.693238 -> Finished on  https://www.baidu.com/
+2023-02-07 16:19:34.667275 -> Crawl HTML Document from https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-07 16:19:38.394697 -> Run Pruning on https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-07 16:19:38.394697 -> Run Partial Tree Matching on https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-07 16:19:38.397696 -> Run Backtracking on https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-07 16:19:38.397696 -> Output Result JSON File on  https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-07 16:19:40.205637 -> Finished on  https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-07 16:20:15.156566 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-07 16:20:23.302725 -> Run Pruning on https://www.baidu.com/
+2023-02-07 16:20:23.303769 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-07 16:20:23.318425 -> Run Backtracking on https://www.baidu.com/
+2023-02-07 16:20:23.319424 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-07 16:20:26.989346 -> Finished on  https://www.baidu.com/
+2023-02-08 13:49:24.088984 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-08 13:49:36.437907 -> Run Pruning on https://www.baidu.com/
+2023-02-08 13:49:36.438906 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-08 13:49:36.466912 -> Run Backtracking on https://www.baidu.com/
+2023-02-08 13:49:36.467907 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-08 13:51:20.428590 -> Crawl HTML Document from https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:51:24.560651 -> Run Pruning on https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:51:24.560651 -> Run Partial Tree Matching on https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:51:24.562651 -> Run Backtracking on https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:51:24.562651 -> Output Result JSON File on  https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:51:26.322530 -> Finished on  https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:51:33.434198 -> Crawl HTML Document from https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:51:37.363348 -> Run Pruning on https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:51:37.363348 -> Run Partial Tree Matching on https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:51:37.366346 -> Run Backtracking on https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:51:37.366346 -> Output Result JSON File on  https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:51:39.164747 -> Finished on  https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:52:34.438587 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-08 13:52:36.017959 -> Run Pruning on https://www.baidu.com/
+2023-02-08 13:52:36.017959 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-08 13:52:36.027957 -> Run Backtracking on https://www.baidu.com/
+2023-02-08 13:52:36.027957 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-08 13:52:38.989643 -> Finished on  https://www.baidu.com/
+2023-02-08 13:52:48.816121 -> Crawl HTML Document from https://www.baidu.com/
+2023-02-08 13:52:50.347713 -> Run Pruning on https://www.baidu.com/
+2023-02-08 13:52:50.348712 -> Run Partial Tree Matching on https://www.baidu.com/
+2023-02-08 13:52:50.357712 -> Run Backtracking on https://www.baidu.com/
+2023-02-08 13:52:50.357712 -> Output Result JSON File on  https://www.baidu.com/
+2023-02-08 13:52:53.259950 -> Finished on  https://www.baidu.com/
+2023-02-08 13:53:47.395655 -> Crawl HTML Document from https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:53:52.739328 -> Run Pruning on https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:53:52.739328 -> Run Partial Tree Matching on https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:53:52.741285 -> Run Backtracking on https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:53:52.741285 -> Output Result JSON File on  https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
+2023-02-08 13:53:54.488493 -> Finished on  https://www.google.com.hk/videohp?hl=zh-CN&sourceid=cnhp
